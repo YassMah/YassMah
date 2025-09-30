@@ -12,3 +12,6 @@ Bienvenue sur mon portfolio GitHub.
 ## 📫 Me contacter
 - [LinkedIn](https://linkedin.com/in/mahjoubi-yassine)
 - [Email](yass.mahjoubi@hotmail.com)
+
+## 🎨 Portfolio 
+- [Figma](https://www.figma.com/design/BxhnpEEikLvdfM0WbApN35/Untitled?node-id=0-1&t=QUGunecu1MA7zOFG-1)
