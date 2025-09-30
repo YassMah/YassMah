@@ -11,4 +11,4 @@ Bienvenue sur mon portfolio GitHub.
 
 ## 📫 Me contacter
 - [LinkedIn](https://linkedin.com/in/mahjoubi-yassine)
-- Email : yass.mahjoubi@hotmail.com
+- [Email](yass.mahjoubi@hotmail.com)
