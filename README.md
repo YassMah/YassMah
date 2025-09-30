@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Salut, je suis YassMah! Un développeur indépendant et talentueux
+Bienvenue sur mon portfolio GitHub.
 
-<!--
-**YassMah/YassMah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projets
+- Artelia : un projet afin d'en apprendre plus sur les différentes oeuvres d'art
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
+- HTML/CSS/JS
+- Figma
+- Photoshop, Illustrator, Première Pro, After Effect (suite Adobe)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter
+- [LinkedIn](https://linkedin.com/in/mahjoubi-yassine)
+- Email : yass.mahjoubi@hotmail.com
