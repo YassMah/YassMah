@@ -1,4 +1,4 @@
-# 👋 Salut, je suis YassMah! Un développeur indépendant et talentueux
+# 👋 Salut, je suis Yassine Mahjoubi (plus simplement Yass)
 Bienvenue sur mon portfolio GitHub.
 
 ## 🚀 Projets
