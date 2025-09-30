@@ -6,7 +6,7 @@ Bienvenue sur mon portfolio GitHub.
 
 ## 🛠️ Compétences
 - HTML/CSS/JS
-- Figma : https://www.figma.com/design/BxhnpEEikLvdfM0WbApN35/Untitled?node-id=0-1&t=QUGunecu1MA7zOFG-1
+- Figma
 - Photoshop, Illustrator, Première Pro, After Effect (suite Adobe)
 
 ## 📫 Me contacter
