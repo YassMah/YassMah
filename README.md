@@ -11,7 +11,7 @@ Bienvenue sur mon portfolio GitHub.
 
 ## 📫 Me contacter
 - 🇫🇷 [LinkedIn](https://linkedin.com/in/mahjoubi-yassine)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [LinkedIn](https://www.linkedin.com/in/mahjoubi-yassine/?locale=en_US)
+- 🇬🇧󠁧󠁢 [LinkedIn](https://www.linkedin.com/in/mahjoubi-yassine/?locale=en_US)
 - [Email](yass.mahjoubi@hotmail.com)
 
 ## 🎨 Portfolio 
