@@ -10,8 +10,8 @@ Bienvenue sur mon portfolio GitHub.
 - Photoshop, Illustrator, Première Pro, After Effect (suite Adobe)
 
 ## 📫 Me contacter
-- Français : [LinkedIn](https://linkedin.com/in/mahjoubi-yassine)
-- English : [LinkedIn](https://www.linkedin.com/in/mahjoubi-yassine/?locale=en_US)
+- 🇫🇷 [LinkedIn](https://linkedin.com/in/mahjoubi-yassine)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [LinkedIn](https://www.linkedin.com/in/mahjoubi-yassine/?locale=en_US)
 - [Email](yass.mahjoubi@hotmail.com)
 
 ## 🎨 Portfolio 
