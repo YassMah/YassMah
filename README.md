@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Yassine Mahjoubi (plus simplement Yass)
+# 👋 Salut, je suis Yassine Mahjoubi !
 Bienvenue sur mon portfolio GitHub.
 
 ## 🚀 Projets
