@@ -2,7 +2,7 @@
 Bienvenue sur mon portfolio GitHub.
 
 ## 🚀 Projets
-- Artelia : un projet afin d'en apprendre plus sur les différentes oeuvres d'art
+- Artelia : un projet d'application mobile afin d'en apprendre plus sur les différentes oeuvres d'art
 
 ## 🛠️ Compétences
 - HTML/CSS/JS
